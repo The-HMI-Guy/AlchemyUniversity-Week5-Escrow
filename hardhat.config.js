@@ -1,5 +1,6 @@
 const { network } = require('hardhat');
 
+require('dotenv');
 require('@nomicfoundation/hardhat-toolbox');
 
 module.exports = {
